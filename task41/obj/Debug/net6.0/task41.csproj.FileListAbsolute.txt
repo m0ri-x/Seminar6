@@ -1,0 +1,16 @@
+C:\Users\Елена\Desktop\Учеба гикбрейнс\Seminar_6\task41\bin\Debug\net6.0\task41.exe
+C:\Users\Елена\Desktop\Учеба гикбрейнс\Seminar_6\task41\bin\Debug\net6.0\task41.deps.json
+C:\Users\Елена\Desktop\Учеба гикбрейнс\Seminar_6\task41\bin\Debug\net6.0\task41.runtimeconfig.json
+C:\Users\Елена\Desktop\Учеба гикбрейнс\Seminar_6\task41\bin\Debug\net6.0\task41.dll
+C:\Users\Елена\Desktop\Учеба гикбрейнс\Seminar_6\task41\bin\Debug\net6.0\ref\task41.dll
+C:\Users\Елена\Desktop\Учеба гикбрейнс\Seminar_6\task41\bin\Debug\net6.0\task41.pdb
+C:\Users\Елена\Desktop\Учеба гикбрейнс\Seminar_6\task41\obj\Debug\net6.0\task41.GlobalUsings.g.cs
+C:\Users\Елена\Desktop\Учеба гикбрейнс\Seminar_6\task41\obj\Debug\net6.0\task41.csproj.AssemblyReference.cache
+C:\Users\Елена\Desktop\Учеба гикбрейнс\Seminar_6\task41\obj\Debug\net6.0\task41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елена\Desktop\Учеба гикбрейнс\Seminar_6\task41\obj\Debug\net6.0\task41.AssemblyInfoInputs.cache
+C:\Users\Елена\Desktop\Учеба гикбрейнс\Seminar_6\task41\obj\Debug\net6.0\task41.AssemblyInfo.cs
+C:\Users\Елена\Desktop\Учеба гикбрейнс\Seminar_6\task41\obj\Debug\net6.0\task41.csproj.CoreCompileInputs.cache
+C:\Users\Елена\Desktop\Учеба гикбрейнс\Seminar_6\task41\obj\Debug\net6.0\task41.dll
+C:\Users\Елена\Desktop\Учеба гикбрейнс\Seminar_6\task41\obj\Debug\net6.0\ref\task41.dll
+C:\Users\Елена\Desktop\Учеба гикбрейнс\Seminar_6\task41\obj\Debug\net6.0\task41.pdb
+C:\Users\Елена\Desktop\Учеба гикбрейнс\Seminar_6\task41\obj\Debug\net6.0\task41.genruntimeconfig.cache
